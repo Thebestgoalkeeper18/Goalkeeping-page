@@ -1,0 +1,16 @@
+#div_1 {
+    width: 600px;
+    height: 1000px;
+    background: grey;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+#div_2 {
+    width: 500px;
+    height: 550px;
+    background-color: yellow;
+    border: black 4px;
+    font-size: 15px;
+    text-align: left;
+}
